@@ -1,5 +1,5 @@
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" alt="Thai Nguyen. I build payments, identity and credit products, and I check the numbers myself. Senior Product Owner at Zalopay, previously Lazada. Open to product roles in Singapore." width="100%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" alt="Thai Nguyen. I build payments, identity and credit products, and I check the numbers myself. Senior Product Owner at Zalopay and lead of the User Core team (eKYC, login, account security), previously Lazada. Open to product roles in Singapore." width="100%" /></picture>
 </div>
 
 <br />
