@@ -8,7 +8,39 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Nguyen presenting his team plan at Zalopay annual planning 2026, in front of 80 key members." width="100%" /></picture>
 
-## Shipped at Zalopay
+## Identity and User Core
+
+<sub>TL3 to TL4 on the line: the 12-person team I led keeps logins, identity and accounts safe for millions of users.</sub>
+
+<br />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-vneid-dark.svg" /><img src="./assets/card-vneid.svg" alt="Identity the government already trusts: Zalopay integrated with VNeID; end-to-end onboarding success quadrupled." width="100%" /></picture>
+
+<table>
+  <tr>
+    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-c77-dark.svg" /><img src="./assets/card-c77.svg" alt="Compliance without a new build: certified liveness met Circular 77, so a planned FIDO build was cut." width="100%" /></picture></td>
+    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-gate-dark.svg" /><img src="./assets/card-gate.svg" alt="A compliance gate rolled out in about two hours: 10, 30, 50, then 100 percent." width="100%" /></picture></td>
+  </tr>
+</table>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-lock-dark.svg" /><img src="./assets/card-lock.svg" alt="Lost-device safety: a new-device warning and self-serve Lock Account verified by face." width="100%" /></picture>
+
+## Credit: Buy Now Pay Later
+
+<sub>TL5, where I am now: growing BNPL with banks and lenders across Zalopay checkout.</sub>
+
+<br />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-mpu-dark.svg" /><img src="./assets/card-mpu.svg" alt="More lenders, so more people qualify: leading VietCredit and VPBank launches to double the eligible base to 8.5M and grow monthly paying users from about 230K to 340K by December 2026." width="100%" /></picture>
+
+<table>
+  <tr>
+    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-idle-dark.svg" /><img src="./assets/card-idle.svg" alt="Growth is stuck at the credit gate: about 60 percent of active credit accounts never drew their limit." width="100%" /></picture></td>
+    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-stepup-dark.svg" /><img src="./assets/card-stepup.svg" alt="Selfie step-up root cause: 94.6 percent on changed devices versus 1.1 percent on matched devices." width="100%" /></picture></td>
+  </tr>
+</table>
+
+## Merchants and payments
 
 <sub>Public launch posts and press. Click a card to open the source.</sub>
 
