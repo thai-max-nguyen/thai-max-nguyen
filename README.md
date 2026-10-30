@@ -6,11 +6,26 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/recognition-dark.svg" /><img src="./assets/recognition.svg" alt="Recognition: Zalopay Hackathon Champion 2024 and 2025; performance rating A: Excellent 2024 to 2026; Zalopay AI Exhibition Top 5 2026; Security CTF 3rd place 2026; Lazada Pay Best Employee 2023." width="100%" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Nguyen presenting his team plan at Zalopay annual planning 2026, in front of 80 key members." width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Nguyen leading the 12-person User Core team; presenting its 2026 plan at Zalopay annual planning." width="100%" /></picture>
 
-## Identity and User Core
+## TL1 · Merchants and payments
 
-<sub>TL3 to TL4 on the line: the 12-person team I led keeps logins, identity and accounts safe for millions of users.</sub>
+<sub>Where I started at Zalopay. Click a card for the public launch post or press.</sub>
+
+<br />
+
+<a href="https://www.linkedin.com/posts/zalopay_zalopay-apple-appstore-activity-7285511140061720578-ayP3"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-apple-dark.svg" /><img src="./assets/card-apple.svg" alt="Zalopay inside Apple services: product lead for Zalopay as a payment method on the App Store, Apple Music and Apple TV." width="100%" /></picture></a>
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://www.linkedin.com/posts/zalopay_zalopay-lazada-digitalpayments-activity-7209474637741662208-zX4O"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-lazada-dark.svg" /><img src="./assets/card-lazada.svg" alt="Lazada × Zalopay: Zalopay as a checkout payment method across Lazada Vietnam." width="100%" /></picture></a></td>
+    <td width="50%"><a href="https://cafef.vn/ahamove-ap-dung-zalopay-qr-da-nang-trong-thanh-toan-khong-tien-mat-188231227175858974.chn"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-ahamove-dark.svg" /><img src="./assets/card-ahamove.svg" alt="Ahamove × Zalopay QR: one multi-purpose QR for cashless delivery payments." width="100%" /></picture></a></td>
+  </tr>
+</table>
+
+## TL3–TL4 · Identity and User Core
+
+<sub>The 12-person team I led keeps logins, identity and accounts safe for millions of users.</sub>
 
 <br />
 
@@ -25,9 +40,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-lock-dark.svg" /><img src="./assets/card-lock.svg" alt="Lost-device safety: a new-device warning and self-serve Lock Account verified by face." width="100%" /></picture>
 
-## Credit: Buy Now Pay Later
+## TL5 · Credit, Buy Now Pay Later
 
-<sub>TL5, where I am now: growing BNPL with banks and lenders across Zalopay checkout.</sub>
+<sub>Where I am now: growing BNPL with banks and lenders across Zalopay checkout.</sub>
 
 <br />
 
@@ -40,22 +55,7 @@
   </tr>
 </table>
 
-## Merchants and payments
-
-<sub>Public launch posts and press. Click a card to open the source.</sub>
-
-<br />
-
-<a href="https://www.linkedin.com/posts/zalopay_zalopay-apple-appstore-activity-7285511140061720578-ayP3"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-apple-dark.svg" /><img src="./assets/card-apple.svg" alt="Zalopay inside Apple services: product lead for Zalopay as a payment method on the App Store, Apple Music and Apple TV." width="100%" /></picture></a>
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://www.linkedin.com/posts/zalopay_zalopay-lazada-digitalpayments-activity-7209474637741662208-zX4O"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-lazada-dark.svg" /><img src="./assets/card-lazada.svg" alt="Lazada × Zalopay: Zalopay as a checkout payment method across Lazada Vietnam." width="100%" /></picture></a></td>
-    <td width="50%"><a href="https://cafef.vn/ahamove-ap-dung-zalopay-qr-da-nang-trong-thanh-toan-khong-tien-mat-188231227175858974.chn"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-ahamove-dark.svg" /><img src="./assets/card-ahamove.svg" alt="Ahamove × Zalopay QR: one multi-purpose QR for cashless delivery payments." width="100%" /></picture></a></td>
-  </tr>
-</table>
-
-## I also build the tools
+## TE · I also build the tools
 
 <sub>When a tool I need does not exist, I build it. The rule I keep: the agent proposes, a person approves.</sub>
 
@@ -64,6 +64,10 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-codereader-dark.svg" /><img src="./assets/card-codereader.svg" alt="Code Reader: nine single-purpose AI agents check product tickets against the real code. Only one agent can write to Jira, after a person approves." width="100%" /></picture>
 
 <table>
+  <tr>
+    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-cstickets-dark.svg" /><img src="./assets/card-cstickets.svg" alt="CS ticket automation: sorts each customer escalation by type, pulls account data and drafts the reply for review." width="100%" /></picture></td>
+    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-report-dark.svg" /><img src="./assets/card-report.svg" alt="Monthly report automation: pulls what shipped from Jira and dashboards into the monthly memo." width="100%" /></picture></td>
+  </tr>
   <tr>
     <td width="50%"><a href="https://github.com/thai-max-nguyen/claw-a-thon-demo-agent-mvp"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-growth-dark.svg" /><img src="./assets/card-growth.svg" alt="Growth Assistant: an AI analyst built at Claw-a-thon 2026." width="100%" /></picture></a></td>
     <td width="50%"><a href="https://thai-max-nguyen.github.io/Gmat-Math-Trainer/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-gmat-dark.svg" /><img src="./assets/card-gmat.svg" alt="GMAT Math Trainer: 1,750 questions with exam simulation and spaced repetition." width="100%" /></picture></a></td>
