@@ -1,5 +1,5 @@
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" alt="Thai Max Nguyen. I build the wallet inside the chat app Vietnam lives on. A Singapore MRT-style line: Lazada, Merchants, Identity, User Core, Pay Later, next stop Singapore. Senior Product Owner at Zalopay who owns Buy Now Pay Later end to end, previously lead of the 12-person User Core team and merchant payments, and two years at Lazada. Open to product roles in Singapore." width="100%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" alt="Thai Max Nguyen. I build the wallet inside the chat app Vietnam lives on. A Singapore MRT-style line: Lazada, Merchants, Identity, User Core, Pay Later, next stop Singapore. Senior Product Manager at Zalopay who owns Buy Now Pay Later end to end, previously lead of the 12-person User Core team and merchant payments, and two years at Lazada. Open to product roles in Singapore." width="100%" /></picture>
 </div>
 
 <p align="center"><a href="https://thai-max-nguyen.github.io"><img src="./assets/zalopay-in-zalo.webp" width="300" alt="Illustration: a Zalo chat with Zalopay opened inside it as a wallet card" /></a><br /><sub>Zalopay lives inside Zalo, the chat app on most phones in Vietnam.</sub></p>
@@ -46,7 +46,7 @@
 
 <br />
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-bnpl-dark.svg" /><img src="./assets/card-bnpl.svg" alt="Buy Now Pay Later end to end: sign-up, instalments at checkout, statements, repayment, refunds, collection and activation, with a junior PO. CIMB live, VietCredit pilot November 2026, VPBank next." width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-bnpl-dark.svg" /><img src="./assets/card-bnpl.svg" alt="Buy Now Pay Later end to end: sign-up, instalments at checkout, statements, repayment, refunds, collection and activation, with a junior PM. CIMB live, VietCredit pilot November 2026, VPBank next." width="100%" /></picture>
 
 ## Tools and standards I built
 
