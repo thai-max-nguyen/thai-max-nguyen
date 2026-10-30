@@ -33,7 +33,7 @@
 
 <a href="https://vnexpress.net/nguoi-dung-zalopay-co-the-xac-thuc-dien-tu-qua-vneid-4872599.html"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-vneid-dark.svg" /><img src="./assets/card-vneid.svg" alt="Identity the government already trusts: Zalopay integrated with VNeID; end-to-end onboarding success quadrupled. VnExpress coverage." width="100%" /></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-stepup-dark.svg" /><img src="./assets/card-stepup.svg" alt="Selfie step-up root cause: 94.6 percent on changed devices versus 1.1 percent on matched devices." width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-stepup-dark.svg" /><img src="./assets/card-stepup.svg" alt="Selfie step-up root cause: 94.6 percent on changed devices versus 1.1 percent on matched devices." width="50%" /></picture>
 
 ## Buy Now Pay Later
 
