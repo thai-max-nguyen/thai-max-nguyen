@@ -1,5 +1,5 @@
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" alt="Thai Max Nguyen. I build the wallet inside the chat app Vietnam lives on. A Singapore MRT-style line: Lazada, Merchants, Identity, Login and ID, Pay Later, next stop Singapore. Senior Product Manager at Zalopay who owns Buy Now Pay Later end to end, previously lead of the 12-person login and identity team and merchant payments, and two years at Lazada. Open to product roles in Singapore." width="100%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" alt="Thai Max Nguyen. I build the wallet inside the chat app Vietnam lives on. A Singapore MRT-style line: Lazada, Merchants, Identity, Login and ID, Pay Later, next stop Singapore. Senior Product Manager at Zalopay who owns Buy Now Pay Later end to end, previously lead of the login and identity team and merchant payments, and two years at Lazada. Open to product roles in Singapore." width="100%" /></picture>
 </div>
 
 <p align="center"><a href="https://thai-max-nguyen.github.io"><img src="./assets/zalopay-in-zalo.webp" width="300" alt="Illustration: a Zalo chat with Zalopay opened inside it as a wallet card" /></a><br /><sub>Zalopay lives inside Zalo, the chat app on most phones in Vietnam.</sub></p>
@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/recognition-dark.svg" /><img src="./assets/recognition.svg" alt="Recognition: top performance rating at VNG, Zalopay's parent company (A: Excellent, 2024 to 2026), and at Lazada; Sao Khuê Award 2025, Vietnam's national IT award, for Zalopay pay on delivery; Zalopay Hackathon Champion 2024 and 2025; Zalopay AI Exhibition Top 5 2026; Zalopay Security Contest 3rd place 2026; Lazada Best Employee Award 2023." width="100%" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Max Nguyen presenting the 2026 plan of the 12-person login and identity team at Zalopay annual planning." width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Max Nguyen presenting the 2026 plan of the login and identity team at Zalopay annual planning." width="100%" /></picture>
 
 ## Buy Now Pay Later
 
@@ -18,7 +18,7 @@
 
 ## Identity and login
 
-<sub>The 12-person login and identity team I led keeps accounts safe for millions of users.</sub>
+<sub>The login and identity team I led keeps accounts safe for millions of users.</sub>
 
 <a href="https://vnexpress.net/nguoi-dung-zalopay-co-the-xac-thuc-dien-tu-qua-vneid-4872599.html"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-vneid-dark.svg" /><img src="./assets/card-vneid.svg" alt="Identity the government already trusts: Zalopay integrated with VNeID; sign-up success quadrupled. VnExpress coverage." width="100%" /></picture></a>
 
