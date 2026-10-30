@@ -6,6 +6,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/recognition-dark.svg" /><img src="./assets/recognition.svg" alt="Recognition: Zalopay Hackathon Champion 2024 and 2025; performance rating A: Excellent 2024 to 2026; Zalopay AI Exhibition Top 5 2026; Security CTF 3rd place 2026; Lazada Pay Best Employee 2023." width="100%" /></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Nguyen presenting his team plan at Zalopay annual planning 2026, in front of 80 key members." width="100%" /></picture>
+
 ## Shipped at Zalopay
 
 <sub>Public launch posts and press. Click a card to open the source.</sub>
