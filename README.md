@@ -6,9 +6,9 @@
 
 <p align="center"><b><a href="https://thai-max-nguyen.github.io">Portfolio: thai-max-nguyen.github.io</a></b></p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/recognition-dark.svg" /><img src="./assets/recognition.svg" alt="Recognition: top performance rating at VNG, Zalopay's parent company (A: Excellent, 2024 to 2026), and at Lazada; Sao Khuê Award 2025 for Zalopay pay on delivery; Zalopay Hackathon Champion 2024 and 2025; Zalopay AI Exhibition Top 5 2026; Zalopay Security Contest 3rd place 2026; Lazada Best Employee Award 2023." width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/recognition-dark.svg" /><img src="./assets/recognition.svg" alt="Recognition: top performance rating at VNG, Zalopay's parent company (A: Excellent, 2024 to 2026), and at Lazada; Sao Khuê Award 2025, Vietnam's national IT award, for Zalopay pay on delivery; Zalopay Hackathon Champion 2024 and 2025; Zalopay AI Exhibition Top 5 2026; Zalopay Security Contest 3rd place 2026; Lazada Best Employee Award 2023." width="100%" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Max Nguyen leading the 12-person login and identity team; presenting its 2026 plan at Zalopay annual planning." width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Max Nguyen presenting the 2026 plan of the 12-person login and identity team at Zalopay annual planning." width="100%" /></picture>
 
 ## Buy Now Pay Later
 
