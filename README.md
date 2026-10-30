@@ -1,12 +1,12 @@
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" alt="Thai Nguyen. I build payments, identity and credit products, and I check the numbers myself. A Singapore MRT-style line: Lazada, Merchants, Identity, User Core, Pay Later, next stop Singapore. Senior Product Owner at Zalopay who owns Buy Now Pay Later end to end, previously lead of the 12-person User Core team and merchant payments, and two years at Lazada. Open to product roles in Singapore." width="100%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" alt="Thai Max Nguyen. I build the wallet inside the chat app Vietnam lives on. A Singapore MRT-style line: Lazada, Merchants, Identity, User Core, Pay Later, next stop Singapore. Senior Product Owner at Zalopay who owns Buy Now Pay Later end to end, previously lead of the 12-person User Core team and merchant payments, and two years at Lazada. Open to product roles in Singapore." width="100%" /></picture>
 </div>
 
-<br />
+<p align="center"><b><a href="https://thai-max-nguyen.github.io">Portfolio: thai-max-nguyen.github.io</a></b></p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/recognition-dark.svg" /><img src="./assets/recognition.svg" alt="Recognition: top performance rating every year (VNG A: Excellent 2024 to 2026, top rating at Lazada); Sao Khuê Award 2025 for Zalopay pay on delivery; Zalopay Hackathon Champion 2024 and 2025; Zalopay AI Exhibition Top 5 2026; Zalopay Security Contest 3rd place 2026; Lazada Best Employee Award 2023." width="100%" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Nguyen leading the 12-person User Core team; presenting its 2026 plan at Zalopay annual planning." width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Max Nguyen leading the 12-person User Core team; presenting its 2026 plan at Zalopay annual planning." width="100%" /></picture>
 
 ## Merchants and payments
 
@@ -69,4 +69,4 @@
 
 Happy to talk payments, digital identity, Buy Now Pay Later and AI tools for product teams, ideally over kopi-C kosong.
 
-[Email](mailto:thaiquang.nguyenle@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thai-max-nguyen-6957b2213)
+[Portfolio](https://thai-max-nguyen.github.io) · [Email](mailto:thaiquang.nguyenle@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thai-max-nguyen-6957b2213)
