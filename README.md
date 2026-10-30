@@ -18,15 +18,15 @@
 
 <sub>Login and identity for millions of Zalopay users. The team I led.</sub>
 
-<a href="https://vnexpress.net/nguoi-dung-zalopay-co-the-xac-thuc-dien-tu-qua-vneid-4872599.html"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-vneid-dark.svg" /><img src="./assets/card-vneid.svg" alt="Identity the government already trusts: Zalopay integrated with VNeID; sign-up success quadrupled. VnExpress coverage." width="100%" /></picture></a>
+<a href="https://vnexpress.net/nguoi-dung-zalopay-co-the-xac-thuc-dien-tu-qua-vneid-4872599.html"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-vneid-dark.svg" /><img src="./assets/card-vneid.svg" alt="Sign-up success quadrupled with the national digital ID: reading the ID card's chip with the phone (NFC), sign-up through VNeID, a way to resume where people dropped off, and AI auto-capture. VnExpress coverage." width="100%" /></picture></a>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-autocapture-dark.svg" /><img src="./assets/card-autocapture.svg" alt="AI auto-capture for ID photos: the camera checks the ID card and takes the photo itself, so people got through the step 3x faster." width="49.5%" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-stepup-dark.svg" /><img src="./assets/card-stepup.svg" alt="Why users got asked for selfies: a device ID stored in two letter cases; extra selfie checks hit 94.6 percent on changed devices versus 1.1 percent on matched devices." width="49.5%" /></picture></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-autocapture-dark.svg" /><img src="./assets/card-autocapture.svg" alt="AI auto-capture for ID photos: the camera checks the ID card and takes the photo itself, so people got through the step 3x faster." width="100%" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Max Nguyen presenting the 2026 plan of the login and identity team at Zalopay annual planning." width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stage-dark.svg" /><img src="./assets/stage.svg" alt="Thai Max Nguyen presenting the login and identity team's 2026 plan at Zalopay annual planning." width="100%" /></picture>
 
 ## Merchants and payments
 
-<sub>Where I started at Zalopay. Each card opens the public coverage.</sub>
+<sub>Where I started at Zalopay in 2023. Each card opens the public coverage.</sub>
 
 <a href="https://baodautu.vn/thanh-toan-duoc-bang-zalopay-tren-app-store-va-cac-dich-vu-khac-cua-apple-d240993.html"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-apple-dark.svg" /><img src="./assets/card-apple.svg" alt="Zalopay inside Apple services: product lead for Zalopay as a payment method on the App Store, Apple Music and Apple TV; 51 percent of linked users went on to pay, against a 15 percent regional benchmark; a web flow for people without the app brings about 40 percent of new payers; plus the Apple Hub mini app. Báo Đầu tư coverage." width="100%" /></picture></a>
 
@@ -42,14 +42,16 @@
 
 <sub>Small systems that make the team's work repeatable. They gather and draft. People make the calls.</sub>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-codereader-dark.svg" /><img src="./assets/card-codereader.svg" alt="Code Reader: nine single-purpose agents check product tickets against the real code. Only one can write to Jira, after a person approves." width="100%" /></picture>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-codereader-dark.svg" /><img src="./assets/card-codereader.svg" alt="Code Reader: nine agents read the code. Only one writes to Jira, after a person says yes." width="49.5%" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-cstickets-dark.svg" /><img src="./assets/card-cstickets.svg" alt="Customer-service triage: escalations sorted and drafted before I start." width="49.5%" /></picture></p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-cstickets-dark.svg" /><img src="./assets/card-cstickets.svg" alt="Customer escalations, triaged: each case grouped by type with only that account's records and a first draft; I check the facts, decide and reply." width="49.5%" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-prd-dark.svg" /><img src="./assets/card-prd.svg" alt="PRD and Jira standards: templates and a review gate for specs and tickets." width="49.5%" /></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-prd-dark.svg" /><img src="./assets/card-prd.svg" alt="PRD and Jira standards: specs a developer can test." width="49.5%" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-analysis-dark.svg" /><img src="./assets/card-analysis.svg" alt="Analysis checklist: the question first, the SQL last." width="49.5%" /></picture></p>
 
-<p><a href="https://github.com/thai-max-nguyen/claw-a-thon-demo-agent-mvp"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-growth-dark.svg" /><img src="./assets/card-growth.svg" alt="Growth Assistant: an AI analyst built at Claw-a-thon 2026." width="49.5%" /></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-focuslog-dark.svg" /><img src="./assets/card-focuslog.svg" alt="FocusLog: a local-first macOS time tracker with idle detection and no telemetry; about 110 tests, CI on every push." width="49.5%" /></picture></p>
+<p><a href="https://github.com/thai-max-nguyen/claw-a-thon-demo-agent-mvp"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-growth-dark.svg" /><img src="./assets/card-growth.svg" alt="Growth Assistant: an AI analyst proposes the day&#39;s move. A person approves." width="49.5%" /></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-focuslog-dark.svg" /><img src="./assets/card-focuslog.svg" alt="FocusLog: a private time tracker for macOS. Nothing leaves the laptop." width="49.5%" /></picture></p>
 
 ## Next stop: Singapore
 
-I am looking for a product role in Singapore in fintech or tech, where I can own a lending, payments or growth product end to end. Happy to talk payments, digital identity, Buy Now Pay Later and AI tools for product teams. Email is fastest, and I reply within a day.
+Vietnamese fintech taught me to ship under regulation. Singapore is where that work goes regional.
+
+I am looking for a product role in Singapore in fintech or tech, where I can own a lending, payments or growth product end to end. I bring regulated launches, partner work with banks and global platforms, and the habit of checking the data myself. The fastest way to reach me is email. I reply within a day.
 
 [Portfolio](https://thai-max-nguyen.github.io) · [Email](mailto:thaiquang.nguyenle@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thai-max-nguyen-6957b2213)
